@@ -1,0 +1,12 @@
+
+This directory is a collection of function which may be useful to
+OpenGL/Mesa programmers.
+
+
+readtex.c	- load textures/mipmaps from a .png file
+showbuffer.[ch]	- show depth, alpha, or stencil buffer contents
+
+
+more to come...
+
+----------------------------------------------------------------------
